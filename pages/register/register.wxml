@@ -1,0 +1,4 @@
+<!--register.wxml-->
+<view class="container">
+  <label>*</label><input placeholder="店铺名称"/>
+</view>
